@@ -1,0 +1,6 @@
+{
+  "name": "Ponto Mesa Arapongas",
+  "description": "Projeto social de tênis de mesa em Arapongas (PR): inclusão, disciplina e convivência para crianças, adolescentes, jovens e famílias. Veja como participar, ser voluntário ou apoiar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
